@@ -1,0 +1,11 @@
+{
+    "python.languageServer": "Pylance",
+    "python.analysis.diagnosticSeverityOverrides": {
+        "reportShadowedImports": "none"
+    },
+    "cSpell.words": [
+        "Haider",
+        "HYPEN"
+    ],
+    
+}
