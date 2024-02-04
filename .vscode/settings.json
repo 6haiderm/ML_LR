@@ -7,5 +7,6 @@
         "Haider",
         "HYPEN"
     ],
+    "cmake.configureOnOpen": true,
     
 }
